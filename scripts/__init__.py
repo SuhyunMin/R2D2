@@ -1,0 +1,3 @@
+
+from isaacsim.examples.interactive.user_examples.m0609_pick_and_place import Manipulator
+from isaacsim.examples.interactive.user_examples.m0609_pick_and_place_extension import ManipulatorExtension
