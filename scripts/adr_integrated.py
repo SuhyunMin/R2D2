@@ -74,7 +74,7 @@ from isaacsim.core.utils.rotations import euler_angles_to_quat
 BASE_DIR = Path(os.path.dirname(os.path.abspath(__file__))).resolve()   # IK YAML(m0609_rg2_description/rmpflow_common) = scripts/
 M0609_URDF_PATH   = "/home/rokey/dev_ws/isaac_sim/src/doosan-robot2/urdf/m0609_isaac_sim.urdf"
 ONROBOT_URDF_PATH = "/home/rokey/dev_ws/isaac_sim/src/onrobot_rg2/urdf/onrobot_rg2.urdf"
-R2D2_USD_PATH     = "/home/rokey/dev_ws/isaac_sim/IsaacLab/space_debris/space_debris_integrate_claude/resources/assets/usd/R2D2.usd"
+R2D2_USD_PATH     = "/home/rokey/dev_ws/isaac_sim/IsaacLab/space_debris/space_debris_integrate_final/resources/assets/usd/R2D2.usd"
 EE_LINK_NAME      = "link_6"
 GRIPPER_BASE_LINK = "angle_bracket"
 BASE_LINK_NAME    = "base_link"
